@@ -1,6 +1,6 @@
-#### IN ACTION
+#### LIVE
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+[Open Live](https://react-projects-6-tabs.netlify.app/)
 
 ## Screenshot
 
